@@ -1,0 +1,53 @@
+[
+    {
+    "id": 1,
+    "name": "Cafe",
+    "description": "Bebidas Calientes Base de Café"    
+  },
+  {
+    "id": 2,
+    "name": "Crepas Dulces",
+    "description": "Alimento Base de Crepas Dulces"   
+  },
+  {
+    "id": 3,
+    "name": "Crepas Saladas",
+    "description": "Alimento Base de Crepas Saladas"   
+  },
+  {
+    "id": 4,
+    "name": "Mini Donas",
+    "description": "Alimento Base de Mini Donas"   
+  },
+  {
+    "id": 5,
+    "name": "Frozen",
+    "description": "Bebidas Frías Base de Café"    
+  },
+  {
+    "id": 6,
+    "name": "Galletas",
+    "description": "Alimento Base de Galletas"   
+  },
+  {
+    "id": 7,
+    "name": "Pan Dulce",
+    "description": "Alimento Base de Pan Dulce"    
+  },
+  {
+    "id": 8,
+    "name": "Cupcakes",
+    "description": "Alimento Base de Cupcake"    
+  },
+  {
+    "id": 9,
+    "name": "Pasteleria",
+    "description": "Alimento Base de Pasteleria"   
+  },
+  {
+    "id": 10,
+    "name": "Reposteria",
+    "description": "Alimento Base de Reposteria"    
+  }
+]
+  

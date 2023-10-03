@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "65190dc72a15693c437a9fd6"
+  },
+  "username": "admin",
+  "email": "admin@gmail.com",
+  "password": "U2FsdGVkX1+2H/QN1tLgza3TplDwC3WI6afPo/SfGgQ=",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-09-30T06:12:23.452Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-01T06:12:23.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6519e1e34cf6c90c485b2be6"
+  },
+  "username": "celestefranco",
+  "email": "celestecolocho@gmail.com",
+  "password": "U2FsdGVkX1+8lZxAav2HfPBfjQLPaJPbCmB8PPU0xkc=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-10-01T21:17:23.431Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-01T21:17:23.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6519f07d972ec63cf6419143"
+  },
+  "username": "mariacolocho",
+  "email": "mariacolocho@gmail.com",
+  "password": "U2FsdGVkX18tghNaFfI1gBtr2iGsKAyddRzSXyx5Lak=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-10-01T22:19:41.146Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-01T22:19:41.146Z"
+  },
+  "__v": 0
+}]

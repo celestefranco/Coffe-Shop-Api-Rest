@@ -1,0 +1,403 @@
+[
+    {
+        "name": "Café Americano 12 onzas",
+        "description": "Cafe Americano 12 onzas",
+        "price": "2.00",
+        "category": "Cafe",        
+        "imageUrl": "/assets/img/cafe_americano12.png"
+    },
+    {
+        "name": "Café Americano 16 onzas",
+        "description": "Cafe Americano 16 onzas",
+        "price": "2.50",
+        "category": "Cafe", 
+        "imageUrl": "/assets/img/cafe_americano16.png"
+    },   
+    {
+        "name": "Café Capuccino 12 onzas",
+        "description": "Cafe Capuccino 12 onzas",
+        "price": "3.00",
+        "category": "Cafe",
+        "imageUrl": "/assets/img/cafe_capuccino12.png"
+    },
+    {
+        "name": "Café Capuccino 16 onzas",
+        "description": "Cafe Capuccino 16 onzas",
+        "price": "3.50",
+        "category": "Cafe",
+        "imageUrl": "/assets/img/cafe_capuccino16.png" 
+    },
+    {
+        "name": "Café Latte 12 onzas",
+        "description": "Cafe Latte 12 onzas",
+        "price": "2.50",
+        "category": "Cafe",
+        "imageUrl": "/assets/img/cafe_latte12.png" 
+    },
+    {
+        "name": "Café Latte 16 onzas",
+        "description": "Cafe Latte 16 onzas",
+        "price": "3.25",
+        "category": "Cafe",
+        "imageUrl": "/assets/img/cafe_latte16.png" 
+    },
+    {
+        "name": "Café Moccaccino 12 onzas",
+        "description": "Cafe Moccaccino 12 onzas",
+        "price": "3.50",
+        "category": "Cafe",
+        "imageUrl": "/assets/img/cafe_moccacino12.png" 
+    },
+    {
+        "name": "Café Moccaccino 16 onzas",
+        "description": "Cafe Moccaccino 16 onzas",
+        "price": "4.00",
+        "category": "Cafe",
+        "imageUrl": "/assets/img/cafe_moccacino16.png" 
+    },
+    {
+        "name": "Crepa Chocolate",
+        "description": "Crepa Dulce de Chocolate",
+        "price": "2.00",
+        "category": "Crepa Dulce",
+        "imageUrl": "/assets/img/crepa_chocolate.png" 
+    },
+    {
+        "name": "Crepa Frutas",
+        "description": "Crepa Dulce de Frutas Fresas, Guineo y Nutella",
+        "price": "2.50",
+        "category": "Crepa Dulce",
+        "imageUrl": "/assets/img/crepa_frutas.png"  
+    },
+    {
+        "name": "Crepa Fresas",
+        "description": "Crepa Dulce de Fresas, Crema Chantilly",
+        "price": "2.50",
+        "category": "Crepa Dulce",
+        "imageUrl": "/assets/img/crepa_fresas.png"  
+    },
+    {
+        "name": "Crepa Jamon Queso",
+        "description": "Crepa Salada de Jamón y Queso",
+        "price": "2.75",
+        "category": "Crepa Salada",
+        "imageUrl": "/assets/img/crepa_jamon_queso.png"  
+    },
+    {
+        "name": "Crepa Pollo",
+        "description": "Crepa Salada de Pollo y Crema Bechamel",
+        "price": "3.00",
+        "category": "Crepa Salada",
+        "imageUrl": "/assets/img/crepa_pollo.png" 
+    },
+    {
+        "name": "Crepa Camarones",
+        "description": "Crepa Salada de Camarones y Vegetales",
+        "price": "3.50",
+        "category": "Crepa Salada",
+        "imageUrl": "/assets/img/crepa_camaron.png"  
+    },
+    {
+        "name": "Mini Dona Azucar",
+        "description": "Mini Dona de Azucar",
+        "price": "0.35",
+        "category": "Mini Dona",
+        "imageUrl": "/assets/img/mini_dona_azucar.png"  
+    },
+    {
+        "name": "Mini Dona Blueberry",
+        "description": "Mini Dona glaseada azul con springles",
+        "price": "0.35",
+        "category": "Mini Dona",
+        "imageUrl": "/assets/img/mini_dona_blueberry.png"  
+    },
+    {
+        "name": "Mini Dona Chocolate",
+        "description": "Mini Dona de Chocolate",
+        "price": "0.35",
+        "category": "Mini Dona",
+        "imageUrl": "/assets/img/mini_dona_chocolate.png"  
+    },
+    {
+        "name": "Mini Dona Chocolate Mani",
+        "description": "Mini Dona de Chocolate con Mani",
+        "price": "0.35",
+        "category": "Mini Dona",
+        "imageUrl": "/assets/img/mini_dona_chocolate_mani.png"  
+    },
+    {
+        "name": "Mini Dona Chocolate Springles",
+        "description": "Mini Dona de Chocolate con Springles",
+        "price": "0.35",
+        "category": "Mini Dona",
+        "imageUrl": "/assets/img/mini_dona_chocolate_springles.png"  
+    },
+    {
+        "name": "Mini Dona Caramelo",
+        "description": "Mini Dona de Caramelo",
+        "price": "0.35",
+        "category": "Mini Dona",
+        "imageUrl": "/assets/img/mini_dona_caramelo.png"  
+    },
+    {
+        "name": "Mini Dona Strawberry",
+        "description": "Mini Dona glaseada rosa con springles",
+        "price": "0.35",
+        "category": "Mini Dona",
+        "imageUrl": "/assets/img/mini_dona_strawberry.png"  
+    },
+    {
+        "name": "Mini Dona Blackberry",
+        "description": "Mini Dona glaseada morado con springles",
+        "price": "0.35",
+        "category": "Mini Dona",
+        "imageUrl": "/assets/img/mini_dona_blackberry.png"  
+    },
+    {
+        "name": "Frozen Café",
+        "description": "Frozen de Café Americano",
+        "price": "1.50",
+        "category": "Frozen",
+        "imageUrl": "/assets/img/frozen_cafe.png" 
+    },
+    {
+        "name": "Frozen Capuccino",
+        "description": "Frozen de Café Capuccino",
+        "price": "1.75",
+        "category": "Frozen",
+        "imageUrl": "/assets/img/frozen_capuccino.png"  
+    },
+    {
+        "name": "Frozen Latte",
+        "description": "Frozen de Café Latte",
+        "price": "1.75",
+        "category": "Frozen",
+        "imageUrl": "/assets/img/frozen_latte.png"  
+    },
+    {
+        "name": "Frozen Mocca",
+        "description": "Frozen de Café Mocaccino",
+        "price": "1.75",
+        "category": "Frozen",
+        "imageUrl": "/assets/img/frozen_moccaccino.png"  
+    },
+    {
+        "name": "Galleta Corazón",
+        "description": "Galleta glaseada en forma de corazón",
+        "price": "0.40",
+        "category": "Galletas",
+        "imageUrl": "/assets/img/galletas_corazon.png"  
+    },
+    {
+        "name": "Galleta Chispas",
+        "description": "Galleta con Chispas de Chocolate",
+        "price": "0.40",
+        "category": "Galletas", 
+        "imageUrl": "/assets/img/galletas_chispas_chocolate.png"
+    },
+    {
+        "name": "Galleta Emoji",
+        "description": "Galleta glaseada en forma de emojis",
+        "price": "0.40",
+        "category": "Galletas",
+        "imageUrl": "/assets/img/galletas_emoji.png" 
+    },
+    {
+        "name": "Galleta Circular",
+        "description": "Galleta glaseada en forma circular",
+        "price": "0.40",
+        "category": "Galletas",
+        "imageUrl": "/assets/img/galletas_circulares.png" 
+    },
+    {
+        "name": "Orejas",
+        "description": "Mini Orejas",
+        "price": "0.25",
+        "category": "Pan Dulce",
+        "imageUrl": "/assets/img/orejas.png" 
+    },
+    {
+        "name": "Palmeras",
+        "description": "Mini Palmeras con Chocolate",
+        "price": "0.30",
+        "category": "Pan Dulce",
+        "imageUrl": "/assets/img/palmeras.png" 
+    },
+    {
+        "name": "Roll de Canela",
+        "description": "Roll de Canela",
+        "price": "0.30",
+        "category": "Pan Dulce",
+        "imageUrl": "/assets/img/roll_canela.png" 
+    },
+    {
+        "name": "Waffles Azucar",
+        "description": "Waffles de Azucar",
+        "price": "0.30",
+        "category": "Pan Dulce",
+        "imageUrl": "/assets/img/waffles_azucar.png" 
+    },
+    {
+        "name": "Cupcakes Chocolate",
+        "description": "Cupcakes de Chocolate",
+        "price": "0.50",
+        "category": "Cupcakes",
+        "imageUrl": "/assets/img/cupcake_chocolate.png" 
+    },
+    {
+        "name": "Cupcakes Chocolate Chispas",
+        "description": "Cupcakes de Chocolate con Chispas de Chocolate",
+        "price": "0.50",
+        "category": "Cupcakes",
+        "imageUrl": "/assets/img/cupcake_chocolate_chispas.png"  
+    },
+    {
+        "name": "Cupcakes Nutella",
+        "description": "Cupcakes de Nutella",
+        "price": "0.50",
+        "category": "Cupcakes",
+        "imageUrl": "/assets/img/cupcake_nutella.png"  
+    },
+    {
+        "name": "Cupcakes Nutella Mani",
+        "description": "Cupcakes de Nutella con Mani",
+        "price": "0.50",
+        "category": "Cupcakes",
+        "imageUrl": "/assets/img/cupcake_nutella_mani.png"  
+    },
+    {
+        "name": "Cupcakes Vainilla",
+        "description": "Cupcakes de Vainilla con Springles",
+        "price": "0.50",
+        "category": "Cupcakes",
+        "imageUrl": "/assets/img/cupcake_vainilla_springles.png"  
+    },
+    {
+        "name": "Cupcakes Vainilla Fresa",
+        "description": "Cupcakes de Vainilla con Fresas",
+        "price": "0.50",
+        "category": "Cupcakes",
+        "imageUrl": "/assets/img/cupcake_vainilla_fresa.png"  
+    },
+    {
+        "name": "Porción Pastel Chocolate",
+        "description": "Porción de Pastel de Chocolate",
+        "price": "0.50",
+        "category": "Pasteleria",
+        "imageUrl": "/assets/img/porcion_pastel_chocolate.png"  
+    },
+    {
+        "name": "Porcion Mousse Mora",
+        "description": "Porcion Mousse de Mora",
+        "price": "0.50",
+        "category": "Pasteleria",
+        "imageUrl": "/assets/img/porcion_mousse_mora.png"  
+    },
+    {
+        "name": "Porción Pastel 3 Leches",
+        "description": "Porción de Pastel 3 Leches con Nutella",
+        "price": "0.50",
+        "category": "Pasteleria",
+        "imageUrl": "/assets/img/pastel_3_leches.png"  
+    },
+    {
+        "name": "Alfajores Nutella",
+        "description": "Alfajores de Nutella",
+        "price": "0.40",
+        "category": "Reposteria",
+        "imageUrl": "/assets/img/alfajores_nutella.png"  
+    },
+    {
+        "name": "Alfajores Chocolate",
+        "description": "Alfajores de Chocolate",
+        "price": "0.40",
+        "category": "Reposteria",
+        "imageUrl": "/assets/img/alfajores_chocolate.png"  
+    },
+    {
+        "name": "Milhojas",
+        "description": "Milhojas de Turron con Nutella",
+        "price": "0.40",
+        "category": "Reposteria",
+        "imageUrl": "/assets/img/mil_hojas.png" 
+    },
+    {
+        "name": "Muffin Chocolate Chispas",
+        "description": "Muffin de Chocolate con Chispas",
+        "price": "0.50",
+        "category": "Reposteria",
+        "imageUrl": "/assets/img/muffin_chocolate.png"  
+    },
+    {
+        "name": "Tartaleta Fresa",
+        "description": "Tartaleta Crema Pastelera con Fresas",
+        "price": "0.50",
+        "category": "Reposteria",
+        "imageUrl": "/assets/img/tartaleta_fresa.png"  
+    },
+    {
+        "name": "Tartaleta Frutas",
+        "description": "Tartaleta Crema Pastelera con Fresas, Higo, Cereza y Manzana",
+        "price": "0.60",
+        "category": "Reposteria",
+        "imageUrl": "/assets/img/tartaleta_frutas.png"  
+    },
+    {
+        "name": "Tartaleta Melocoton",
+        "description": "Tartaleta Crema Pastelera con Melocotones",
+        "price": "0.50",
+        "category": "Reposteria",
+        "imageUrl": "/assets/img/tartaleta_melocoton.png" 
+    },
+    {
+        "name": "Brownie 3 Chocolate",
+        "description": "Brownie de 3 Chocolates",
+        "price": "0.50",
+        "category": "Pasteleria",
+        "imageUrl": "/assets/img/brownie_chocolate.png" 
+    },
+    {
+        "name": "Brownie Chocolate Oreo",
+        "description": "Brownie de Chocolates y Galleta Oreo",
+        "price": "0.50",
+        "category": "Pasteleria",
+        "imageUrl": "/assets/img/brownie_chocolate_oreo.png" 
+    },
+    {
+        "name": "Cheesecake Arandanos",
+        "description": "Cheesecake de Arandanos",
+        "price": "0.85",
+        "category": "Pasteleria",
+        "imageUrl": "/assets/img/cheesecake_arandanos.png" 
+    },
+    {
+        "name": "Cheesecake Chocolate",
+        "description": "Cheesecake de Chocolate",
+        "price": "0.85",
+        "category": "Pasteleria",
+        "imageUrl": "/assets/img/cheesecake_chocolate.png" 
+    },
+    {
+        "name": "Cheesecake Chocolate Oreo",
+        "description": "Cheesecake de Chocolate y Galleta Oreo",
+        "price": "0.85",
+        "category": "Pasteleria",
+        "imageUrl": "/assets/img/cheesecake_chocolate_oreo.png" 
+    },
+    {
+        "name": "Cheesecake Fresa",
+        "description": "Cheesecake de Fresa",
+        "price": "0.85",
+        "category": "Pasteleria",
+        "imageUrl": "/assets/img/cheesecake_fresa.png" 
+    },
+    {
+        "name": "Cheesecake Frutos Rojos",
+        "description": "Cheesecake de Frutos Rojos",
+        "price": "0.85",
+        "category": "Pasteleria",
+        "imageUrl": "/assets/img/cheesecake_frutos_rojos.png" 
+    }
+    
+
+]

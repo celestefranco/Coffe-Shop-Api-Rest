@@ -1,0 +1,507 @@
+[{
+  "_id": {
+    "$oid": "6519d064ca0f48d825957439"
+  },
+  "name": "Café Americano 12 onzas",
+  "description": "Cafe Americano 12 onzas",
+  "price": 2,
+  "category": "Cafe",
+  "imageUrl": "/assets/img/cafe_americano12.png",
+  "createdAt": {
+    "$date": "2023-10-01T20:02:44.945Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-01T20:02:44.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382971"
+  },
+  "name": "Café Americano 16 onzas",
+  "description": "Cafe Americano 16 onzas",
+  "price": "2.50",
+  "category": "Cafe",
+  "imageUrl": "/assets/img/cafe_americano16.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382972"
+  },
+  "name": "Café Capuccino 12 onzas",
+  "description": "Cafe Capuccino 12 onzas",
+  "price": "3.00",
+  "category": "Cafe",
+  "imageUrl": "/assets/img/cafe_capuccino12.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382973"
+  },
+  "name": "Café Capuccino 16 onzas",
+  "description": "Cafe Capuccino 16 onzas",
+  "price": "3.50",
+  "category": "Cafe",
+  "imageUrl": "/assets/img/cafe_capuccino16.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382974"
+  },
+  "name": "Café Latte 12 onzas",
+  "description": "Cafe Latte 12 onzas",
+  "price": "2.50",
+  "category": "Cafe",
+  "imageUrl": "/assets/img/cafe_latte12.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382975"
+  },
+  "name": "Café Latte 16 onzas",
+  "description": "Cafe Latte 16 onzas",
+  "price": "3.25",
+  "category": "Cafe",
+  "imageUrl": "/assets/img/cafe_latte16.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382976"
+  },
+  "name": "Café Moccaccino 12 onzas",
+  "description": "Cafe Moccaccino 12 onzas",
+  "price": "3.50",
+  "category": "Cafe",
+  "imageUrl": "/assets/img/cafe_moccacino12.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382977"
+  },
+  "name": "Café Moccaccino 16 onzas",
+  "description": "Cafe Moccaccino 16 onzas",
+  "price": "4.00",
+  "category": "Cafe",
+  "imageUrl": "/assets/img/cafe_moccacino16.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382978"
+  },
+  "name": "Crepa Chocolate",
+  "description": "Crepa Dulce de Chocolate",
+  "price": "2.00",
+  "category": "Crepa Dulce",
+  "imageUrl": "/assets/img/crepa_chocolate.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382979"
+  },
+  "name": "Crepa Frutas",
+  "description": "Crepa Dulce de Frutas Fresas, Guineo y Nutella",
+  "price": "2.50",
+  "category": "Crepa Dulce",
+  "imageUrl": "/assets/img/crepa_frutas.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f938297a"
+  },
+  "name": "Crepa Fresas",
+  "description": "Crepa Dulce de Fresas, Crema Chantilly",
+  "price": "2.50",
+  "category": "Crepa Dulce",
+  "imageUrl": "/assets/img/crepa_fresas.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f938297b"
+  },
+  "name": "Crepa Jamon Queso",
+  "description": "Crepa Salada de Jamón y Queso",
+  "price": "2.75",
+  "category": "Crepa Salada",
+  "imageUrl": "/assets/img/crepa_jamon_queso.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f938297c"
+  },
+  "name": "Crepa Pollo",
+  "description": "Crepa Salada de Pollo y Crema Bechamel",
+  "price": "3.00",
+  "category": "Crepa Salada",
+  "imageUrl": "/assets/img/crepa_pollo.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f938297d"
+  },
+  "name": "Crepa Camarones",
+  "description": "Crepa Salada de Camarones y Vegetales",
+  "price": "3.50",
+  "category": "Crepa Salada",
+  "imageUrl": "/assets/img/crepa_camaron.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f938297e"
+  },
+  "name": "Mini Dona Azucar",
+  "description": "Mini Dona de Azucar",
+  "price": "0.35",
+  "category": "Mini Dona",
+  "imageUrl": "/assets/img/mini_dona_azucar.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f938297f"
+  },
+  "name": "Mini Dona Blueberry",
+  "description": "Mini Dona glaseada azul con springles",
+  "price": "0.35",
+  "category": "Mini Dona",
+  "imageUrl": "/assets/img/mini_dona_blueberry.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382980"
+  },
+  "name": "Mini Dona Chocolate",
+  "description": "Mini Dona de Chocolate",
+  "price": "0.35",
+  "category": "Mini Dona",
+  "imageUrl": "/assets/img/mini_dona_chocolate.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382981"
+  },
+  "name": "Mini Dona Chocolate Mani",
+  "description": "Mini Dona de Chocolate con Mani",
+  "price": "0.35",
+  "category": "Mini Dona",
+  "imageUrl": "/assets/img/mini_dona_chocolate_mani.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382982"
+  },
+  "name": "Mini Dona Chocolate Springles",
+  "description": "Mini Dona de Chocolate con Springles",
+  "price": "0.35",
+  "category": "Mini Dona",
+  "imageUrl": "/assets/img/mini_dona_chocolate_springles.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382983"
+  },
+  "name": "Mini Dona Caramelo",
+  "description": "Mini Dona de Caramelo",
+  "price": "0.35",
+  "category": "Mini Dona",
+  "imageUrl": "/assets/img/mini_dona_caramelo.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382984"
+  },
+  "name": "Mini Dona Strawberry",
+  "description": "Mini Dona glaseada rosa con springles",
+  "price": "0.35",
+  "category": "Mini Dona",
+  "imageUrl": "/assets/img/mini_dona_strawberry.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382985"
+  },
+  "name": "Mini Dona Blackberry",
+  "description": "Mini Dona glaseada morado con springles",
+  "price": "0.35",
+  "category": "Mini Dona",
+  "imageUrl": "/assets/img/mini_dona_blackberry.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382986"
+  },
+  "name": "Frozen Café",
+  "description": "Frozen de Café Americano",
+  "price": "1.50",
+  "category": "Frozen",
+  "imageUrl": "/assets/img/frozen_cafe.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382987"
+  },
+  "name": "Frozen Capuccino",
+  "description": "Frozen de Café Capuccino",
+  "price": "1.75",
+  "category": "Frozen",
+  "imageUrl": "/assets/img/frozen_capuccino.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382988"
+  },
+  "name": "Frozen Latte",
+  "description": "Frozen de Café Latte",
+  "price": "1.75",
+  "category": "Frozen",
+  "imageUrl": "/assets/img/frozen_latte.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382989"
+  },
+  "name": "Frozen Mocca",
+  "description": "Frozen de Café Mocaccino",
+  "price": "1.75",
+  "category": "Frozen",
+  "imageUrl": "/assets/img/frozen_moccaccino.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f938298a"
+  },
+  "name": "Galleta Corazón",
+  "description": "Galleta glaseada en forma de corazón",
+  "price": "0.40",
+  "category": "Galletas",
+  "imageUrl": "/assets/img/galletas_corazon.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f938298b"
+  },
+  "name": "Galleta Chispas",
+  "description": "Galleta con Chispas de Chocolate",
+  "price": "0.40",
+  "category": "Galletas",
+  "imageUrl": "/assets/img/galletas_chispas_chocolate.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f938298c"
+  },
+  "name": "Galleta Emoji",
+  "description": "Galleta glaseada en forma de emojis",
+  "price": "0.40",
+  "category": "Galletas",
+  "imageUrl": "/assets/img/galletas_emoji.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f938298d"
+  },
+  "name": "Galleta Circular",
+  "description": "Galleta glaseada en forma circular",
+  "price": "0.40",
+  "category": "Galletas",
+  "imageUrl": "/assets/img/galletas_circulares.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f938298e"
+  },
+  "name": "Orejas",
+  "description": "Mini Orejas",
+  "price": "0.25",
+  "category": "Pan Dulce",
+  "imageUrl": "/assets/img/orejas.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f938298f"
+  },
+  "name": "Palmeras",
+  "description": "Mini Palmeras con Chocolate",
+  "price": "0.30",
+  "category": "Pan Dulce",
+  "imageUrl": "/assets/img/palmeras.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382990"
+  },
+  "name": "Roll de Canela",
+  "description": "Roll de Canela",
+  "price": "0.30",
+  "category": "Pan Dulce",
+  "imageUrl": "/assets/img/roll_canela.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382991"
+  },
+  "name": "Waffles Azucar",
+  "description": "Waffles de Azucar",
+  "price": "0.30",
+  "category": "Pan Dulce",
+  "imageUrl": "/assets/img/waffles_azucar.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382992"
+  },
+  "name": "Cupcakes Chocolate",
+  "description": "Cupcakes de Chocolate",
+  "price": "0.50",
+  "category": "Cupcakes",
+  "imageUrl": "/assets/img/cupcake_chocolate.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382993"
+  },
+  "name": "Cupcakes Chocolate Chispas",
+  "description": "Cupcakes de Chocolate con Chispas de Chocolate",
+  "price": "0.50",
+  "category": "Cupcakes",
+  "imageUrl": "/assets/img/cupcake_chocolate_chispas.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382994"
+  },
+  "name": "Cupcakes Nutella",
+  "description": "Cupcakes de Nutella",
+  "price": "0.50",
+  "category": "Cupcakes",
+  "imageUrl": "/assets/img/cupcake_nutella.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382995"
+  },
+  "name": "Cupcakes Nutella Mani",
+  "description": "Cupcakes de Nutella con Mani",
+  "price": "0.50",
+  "category": "Cupcakes",
+  "imageUrl": "/assets/img/cupcake_nutella_mani.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382996"
+  },
+  "name": "Cupcakes Vainilla",
+  "description": "Cupcakes de Vainilla con Springles",
+  "price": "0.50",
+  "category": "Cupcakes",
+  "imageUrl": "/assets/img/cupcake_vainilla_springles.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382997"
+  },
+  "name": "Cupcakes Vainilla Fresa",
+  "description": "Cupcakes de Vainilla con Fresas",
+  "price": "0.50",
+  "category": "Cupcakes",
+  "imageUrl": "/assets/img/cupcake_vainilla_fresa.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382998"
+  },
+  "name": "Porción Pastel Chocolate",
+  "description": "Porción de Pastel de Chocolate",
+  "price": "0.50",
+  "category": "Pasteleria",
+  "imageUrl": "/assets/img/porcion_pastel_chocolate.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f9382999"
+  },
+  "name": "Porcion Mousse Mora",
+  "description": "Porcion Mousse de Mora",
+  "price": "0.50",
+  "category": "Pasteleria",
+  "imageUrl": "/assets/img/porcion_mousse_mora.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f938299a"
+  },
+  "name": "Porción Pastel 3 Leches",
+  "description": "Porción de Pastel 3 Leches con Nutella",
+  "price": "0.50",
+  "category": "Pasteleria",
+  "imageUrl": "/assets/img/pastel_3_leches.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f938299b"
+  },
+  "name": "Alfajores Nutella",
+  "description": "Alfajores de Nutella",
+  "price": "0.40",
+  "category": "Reposteria",
+  "imageUrl": "/assets/img/alfajores_nutella.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f938299c"
+  },
+  "name": "Alfajores Chocolate",
+  "description": "Alfajores de Chocolate",
+  "price": "0.40",
+  "category": "Reposteria",
+  "imageUrl": "/assets/img/alfajores_chocolate.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f938299d"
+  },
+  "name": "Milhojas",
+  "description": "Milhojas de Turron con Nutella",
+  "price": "0.40",
+  "category": "Reposteria",
+  "imageUrl": "/assets/img/mil_hojas.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f938299e"
+  },
+  "name": "Muffin Chocolate Chispas",
+  "description": "Muffin de Chocolate con Chispas",
+  "price": "0.50",
+  "category": "Reposteria",
+  "imageUrl": "/assets/img/muffin_chocolate.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f938299f"
+  },
+  "name": "Tartaleta Fresa",
+  "description": "Tartaleta Crema Pastelera con Fresas",
+  "price": "0.50",
+  "category": "Reposteria",
+  "imageUrl": "/assets/img/tartaleta_fresa.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f93829a0"
+  },
+  "name": "Tartaleta Frutas",
+  "description": "Tartaleta Crema Pastelera con Fresas, Higo, Cereza y Manzana",
+  "price": "0.60",
+  "category": "Reposteria",
+  "imageUrl": "/assets/img/tartaleta_frutas.png"
+},
+{
+  "_id": {
+    "$oid": "6519d136ad425ed3f93829a1"
+  },
+  "name": "Tartaleta Melocoton",
+  "description": "Tartaleta Crema Pastelera con Melocotones",
+  "price": "0.50",
+  "category": "Reposteria",
+  "imageUrl": "/assets/img/tartaleta_melocoton.png"
+}]

@@ -1,0 +1,25 @@
+[
+    {
+        "username": "celestefranco",    
+        "email": "celestecolocho@gmail.com",
+        "password": "Dante123"
+    },
+    {
+        "username": "celestefranco",    
+        "password": "Dante123"
+    },
+    {
+        "username": "mariacolocho",    
+        "email": "mariacolocho@gmail.com",
+        "password": "MC3105"
+    },
+    {
+        "username": "mariacolocho",    
+        "password": "MC3105"
+    },
+    {
+        "username": "admin",    
+        "email": "admin@gmail.com",
+        "password": "Bad3105"
+    }
+]
