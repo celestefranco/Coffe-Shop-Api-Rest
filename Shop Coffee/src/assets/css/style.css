@@ -1,0 +1,114 @@
+:root {
+	--brown: #5a2901;
+	--white: #ffffff;
+	--dark: #0d0d0d;
+  --beige: #f2A766;
+  --gold: #f2780c;
+  --orange: #f25922;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/** Navbar */
+.container-hero {
+  color: var(--brown);
+  height: 100px;
+}
+
+.hero {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px;
+}
+
+.whats-icon {
+	display: flex;
+	align-items: center;
+  margin-left: 5rem;
+	gap: 1.5rem;
+}
+
+.whats-icon i {
+	font-size: 2rem;
+  font-weight: bold;
+}
+
+.content-whats-icon {
+	display: flex;
+	flex-direction: column;  
+  font-weight: bold;
+}
+
+.container-logo {
+	display: flex;
+	align-items: center;
+  justify-content: center;
+}
+
+.container-logo img {
+	width: 100px;
+  height: 100px;
+}
+
+.container-user {
+	display: flex;
+  justify-content: center;
+	gap: 0.5rem;
+	cursor: pointer;
+}
+
+.container-user .fa-user {
+	font-size: 1.5rem;
+	color: var(--brown);
+	padding-right: 1rem;
+	border-right: 1px solid var(--brown);  
+}
+
+.container-user .fa-basket-shopping {
+	font-size: 1.5rem;
+	color: var(--brown);
+	padding-left: 0.5rem;
+}
+
+.content-shopping-cart {
+	display: flex;
+	flex-direction: column;
+}
+
+.bg-nav {
+	background-color: var(--beige);
+  height: 100px; 
+  width: 100%;
+}
+
+.navbar-brand{
+  margin-left: 10px;
+  font-size: 25px;
+}
+
+.nav-link{
+  color: var(--white);
+  font-size: 1.5rem;
+}
+
+/** Home */
+
+  /** Products.jsx */
+  
+ 
+ .im-card{
+  width: 200px;
+  height: 200px;
+  margin-left: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+  
+ 
+  

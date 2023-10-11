@@ -1,4 +1,6 @@
 const express = require("express");
+const cors = require('cors');
+const path = require('path');
 const db = require('./config/db'); 
 
 const app = express();
@@ -11,6 +13,12 @@ const productRoute = require("./routes/productRoute");
 const cartRoute = require("./routes/cartRoute");
 const orderRoute = require("./routes/orderRoute");
 const stripeRoute = require("./routes/stripeRoute");
+
+app.use(cors({
+  origin: 'http://localhost:5173',
+}));
+
+app.use(express.static(path.join(__dirname, 'public')));
 
 app.use(express.json());
 app.use("/api/auth", authRoute);
