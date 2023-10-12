@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import ReactPaginate from 'react-paginate';
+import { Link } from 'react-router-dom';
 
 
 export default function Products() {
@@ -9,7 +10,7 @@ export default function Products() {
   const [selectedCategory, setSelectedCategory] = useState("all");
   const [minPrice, setMinPrice] = useState("");
   const [maxPrice, setMaxPrice] = useState("");
-
+  
   
   const url =  `http://localhost:5000/api/products`;
   
@@ -53,8 +54,6 @@ export default function Products() {
     );
   
     
-  
-  
     setProducts
   setProducts(filteredProducts);
   };
@@ -71,10 +70,7 @@ export default function Products() {
     setSelectedCategory(e.target.value);
   };
   
-  const handleProductClick = (productId) => {
-    history.push(`/product/${productId}`);
-  };
-  
+   
   const clearFilters = () => {
     setSelectedCategory("all");
     setMinPrice("");
@@ -135,14 +131,16 @@ export default function Products() {
         <div className='row my-5'>
       {displayedProducts.map((product) => (
           <div className='col-lg-3 col-md-6 col-sm-12 my-4' key={product.id}>
-            <div className="productcard">
-              <img src={product.imageUrl} className="img-fluid im-card" alt="Product" />
-              <div className="text-center">
-                <h5>{product.name}</h5>                                  
-                <p>{product.category}</p>  
-                <h4 className='text-danger fw-bold'>$ {product.price}</h4>                                                                                            
-              </div>
-            </div>  
+            <Link to={`/products/${product.id}`}>
+                <div className="productcard">
+                  <img src={product.imageUrl} className="img-fluid im-card" alt="Product" />
+                  <div className="text-center">
+                    <h5>{product.name}</h5>                                  
+                    <p>{product.category}</p>  
+                    <h4 className='text-danger fw-bold'>$ {product.price}</h4>                                                                                            
+                  </div>
+                </div>  
+            </Link>
           </div>
         ))}
         <div className='my-3 d-flex justify-content-center'>

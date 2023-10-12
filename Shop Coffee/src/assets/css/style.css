@@ -75,12 +75,18 @@
 	padding-left: 0.5rem;
 }
 
+.container-user .fa-square-xmark {
+	font-size: 1.8rem;
+	color: var(--brown);
+	padding-left: 0.5rem;
+}
+
 .content-shopping-cart {
 	display: flex;
 	flex-direction: column;
 }
 
-.fa-user:hover, .fa-basket-shopping:hover{
+.fa-user:hover, .fa-basket-shopping:hover, .fa-square-xmark:hover{
   color: var(--gold);
 }
 
@@ -111,7 +117,6 @@
 
   /** Products.jsx */
   
- 
  .im-card{
   width: 200px;
   height: 200px;
@@ -183,6 +188,76 @@
   cursor: pointer;
 }
  
+.improd{
+  transition: transform 0.2s;
+}
+
+.improd:hover, .improd.zoomed {
+  transform: scale(1.5); 
+}
+
+.quan{
+  width: 40px;
+  margin: 1rem;
+  text-align: center;
+  border: 1px solid var(--gold);
+}
+
+.btn-cart{
+  width: 200px;
+  border-radius: 10px;
+  color: var(--white);
+  background-color: var(--gold);
+  border-color: var(--gold);
+}
+
+.btn-cart:hover{
+  background-color: var(--orange);
+}
+
+/** Login */
+.loginform {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  align-items: center;
+  margin-top: 50px;
+  margin-bottom: 150px;
+  margin-left: 400px;
+}
+
+.loginform input[type = "password"],
+.loginform input[type = "text"]
+ {
+  width: 100%;
+  padding: 15px;
+  border: 1px solid var(--gold);
+  margin-bottom:20px;
+  box-sizing: border-box;
+}
+
+/** Register */
+.regisform {
+  display: flex;
+  flex-direction: column; 
+  width: 500px;
+  margin-top: 50px;
+  margin-bottom: 150px;
+  margin-left: 300px;
+ 
+}
+
+.loginform input[type = "text"],
+.loginform input[type = "email"],
+.loginform input[type = "password"]
+ {
+  width: 100%;
+  padding: 15px;
+  border: 1px solid var(--gold);
+  margin-bottom:20px;
+  box-sizing: border-box;
+}
+
  /** Footer */
  .bgfoot{
   background-color: var(--orange);  
